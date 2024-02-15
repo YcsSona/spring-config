@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    email: "{cipher}2281832cd79aa4ca467ce6c56e83dd7b82a56ddc3d58a00c7df80ccd1f89c40423ff0396d61136daa3beede5ec516185"
   onCallSupport:
     - (617) 432-2356
     - (936) 564-8721
